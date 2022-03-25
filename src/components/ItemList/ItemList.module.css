@@ -1,0 +1,12 @@
+.fieldRow {
+    display: flex;
+    justify-content: space-between;
+}
+.itemField {
+    max-width: 50px;
+    min-width: 50px;
+    text-overflow: ellipsis;
+}
+.btn{
+    display: inline;
+}
